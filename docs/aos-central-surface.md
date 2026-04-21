@@ -9,3 +9,4 @@ This repo is a sandbox to translate the Abdur Operating System (AOS) into concre
 - Console: a tool or interface we build to do that work (e.g., GRaNTeD, CWPP sim).
 
 Add initial AOS CENTRAL SURFACE notes
+(lanes / briefs / consoles, even if rough).
